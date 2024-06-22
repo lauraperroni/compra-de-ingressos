@@ -1,5 +1,7 @@
 # e-Ticket
-
+<div align="center">
+<img src="assets/PNG/logonovo.png" width="300" height="60"/>
+</div>
 Pequeno projeto em JavaScript feito no curso da Alura **["Lógica de programação: praticando com desafios"](https://cursos.alura.com.br/course/logica-programacao-praticando-desafios)** durante minha participação como aluna no programa [Geração Caldeira](https://www.geracaocaldeira.org/), oferecido pelo [Instituto Caldeira](https://institutocaldeira.org.br/).
 
 <div align="center">
