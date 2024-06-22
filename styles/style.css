@@ -1,7 +1,7 @@
 body {
     width: 1440px;
     height: 100vh;
-    background: linear-gradient(180deg, rgba(1, 8, 14, 1) 1%, rgba(4, 24, 50, 1) 39%, rgba(1, 8, 14, 1) 88%);
+    background: linear-gradient(180deg, rgb(14, 1, 11) 1%, rgb(50, 4, 46) 39%, rgb(14, 1, 13) 88%);
     margin: 5% auto;
     color: #fff;
 }
@@ -12,17 +12,17 @@ header {
 }
 
 header .logo {
-    width: 196.8px;
+    width: 300px;
     padding-left: 2rem;
 }
 
 main.container {
     width: 1200px;
     height: auto;
-    border: 2px solid #00F4BF;
+    border: 2px solid #f40096;
     margin: 0 auto;
     padding: 4.5rem 6.38rem;
-    background-image: url('../assets/PNG/Imagem\ com\ borda.png');
+    background-image: url('../assets/image1.png');
     background-size: cover;
     position: relative;
 }
@@ -43,7 +43,7 @@ main.container h1 {
 }
 
 main.container h1 span {
-    color: #1875E8;
+    color: #f40096;
 }
 
 form {
@@ -68,7 +68,7 @@ form .input-group select,
 form .input-group input {
     background: none;
     color: white;
-    border: 1px solid #00F4BF;
+    border: 1px solid #f40096;
     border-radius: .5rem;
     height: 3.5rem;
     padding: .5rem 1rem;
@@ -78,7 +78,7 @@ form .input-group input {
 form .input-group select {
     width: 24.75rem;
     appearance: none;
-    background: url('../assets/PNG/Arrow\ down.png') no-repeat right 1rem top 50%;
+    background: url('../assets/SVG/Arrow\ down.svg') no-repeat right 1rem top 50%;
     color: black;
     background-color: white;
 }
@@ -95,11 +95,11 @@ form button {
     color: white;
     font-size: 1.5rem;
     border: none;
-    background-color: #1875E8;
+    background-color: #f40096;
     padding: 1rem 1.5rem;
     border-radius: 1rem;
     width: 13rem;
-    box-shadow: 0px 0px 20px 0px rgba(24, 117, 232, 0.50);
+    box-shadow: 0px 0px 20px 0px rgba(255, 255, 255, 0.5);
     cursor: pointer;
 }
 
@@ -130,8 +130,9 @@ form button {
 }
 
 .container section ul li span {
-    color: #00F4BF;
+    color: #ffffff;
     font-style: italic;
     font-size: 2rem;
     padding-left: 1.5rem;
+    text-shadow:1px 1px 10px #f40096, 1px 1px 10px ;
 }
