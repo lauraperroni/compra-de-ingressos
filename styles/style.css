@@ -1,7 +1,7 @@
 body {
     width: 1440px;
     height: 100vh;
-    background: linear-gradient(180deg, rgb(14, 1, 11) 1%, rgb(50, 4, 46) 39%, rgb(14, 1, 13) 88%);
+    background: linear-gradient(180deg, rgb(14, 1, 11) 1%, #79004b, rgb(14, 1, 13) 88%);
     margin: 5% auto;
     color: #fff;
 }
